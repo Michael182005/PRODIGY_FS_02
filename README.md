@@ -35,11 +35,7 @@ cd employee_management_django
 
 ```bash
 python -m venv venv
-# Windows
 venv\Scripts\activate
-# Linux/Mac
-source venv/bin/activate
-```
 
 4. Install dependencies:
 
